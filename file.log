@@ -1,0 +1,49 @@
+Ошибка выполнения Python скрипта для термина: Компьютер. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundОшибка выполнения Python скрипта для термина: Сервер. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundОшибка выполнения Python скрипта для термина: Стул. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundПроизошла ошибка при анализе некоторых терминов. Проверьте журнал ошибок для подробной информации.Ошибка выполнения Python скрипта для термина: Компьютер. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundОшибка выполнения Python скрипта для термина: Сервер. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundОшибка выполнения Python скрипта для термина: Стул. Выходной код: 127. Вывод: sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not found
+sh: 1: C:UsersgolubAppDataLocalProgramsPythonPython39python.exe: not foundПроизошла ошибка при анализе некоторых терминов. Проверьте журнал ошибок для подробной информации.Ошибка выполнения Python скрипта для термина: Дом. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Ошибка выполнения Python скрипта для термина: Книга. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Ошибка выполнения Python скрипта для термина: Компьютер. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Произошла ошибка при анализе некоторых терминов. Проверьте журнал ошибок для подробной информации.Ошибка выполнения Python скрипта для термина: Дом. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Ошибка выполнения Python скрипта для термина: Книга. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Ошибка выполнения Python скрипта для термина: Компьютер. Выходной код: 1. Вывод: Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+Traceback (most recent call last):
+  File "/var/www/www-root/data/www/sde.sticenter.ru/pages/../thesaurus/semantic_thesaurus.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'Произошла ошибка при анализе некоторых терминов. Проверьте журнал ошибок для подробной информации.

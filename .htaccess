@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Перенаправление главной страницы на /public/index.php
+RewriteRule ^$ /public/index.php [L]
+
+# Запретить доступ к директории config и всем ее поддиректориям
+RewriteRule ^config(/|$) - [F,L]
+
+# Запретить доступ к директории thesaurus и всем ее поддиректориям
+RewriteRule ^thesaurus(/|$) - [F,L]
+
+# Разрешить доступ ко всем файлам
+<Files ~ ".*">
+    Order allow,deny
+    Allow from all
+</Files>
